@@ -1,0 +1,18 @@
+.class {
+    background-color: rgb(229, 113, 113);
+    font-family: "Verdana, DejaVu Sans", sans-serif;
+}
+
+#first-id {
+    color: rgb(16, 16, 218);
+    font-size: 36px;
+}
+
+.two {
+    font-size: 24px;
+}
+
+#second-id {
+    background-color: rgb(108, 229, 108);
+    font-weight: bold;
+}
